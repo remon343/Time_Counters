@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 I am done with ohters
+=======
+I am done
+with you
+>>>>>>> e01f1af4fca372f9cffa02470aff198c999847bf
